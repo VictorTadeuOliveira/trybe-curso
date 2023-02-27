@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+}
+
+#minha_foto {
+  width: 500px;
+  height: 500px;
+}
+
+#descricao {
+  width: 500px;
+}
+
+#artigo {
+  width: 500px;
+  font-size: larger;
+  color: darkblue;
+  line-height: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#link:hover {
+  font-weight: 900;
+}
+
+#tabela {
+  border: 5px solid black;
+  padding: 20px;
+  margin: 50px;
+}
+
+td {
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+}
+
+.lado-direito {
+  display: inline-block;
+}
